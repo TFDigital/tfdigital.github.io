@@ -425,6 +425,17 @@ textarea{
 
 }
 
+@media (min-width: 1328px) {
+    .footer__title{
+        padding-bottom: 35px;
+    }
+
+    .nav__link--footer{
+        width: 130px;
+    }
+
+}
+
 
 
 
