@@ -435,6 +435,10 @@ textarea{
         width: 130px;
     }
 
+    .footer__submit:hover{
+        color: #5454D4;
+    }
+
 }
 
 
